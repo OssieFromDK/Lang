@@ -66,6 +66,7 @@
     "IngameWindow_MatchInfo_MID": "Идентификатор матча",
     "IngameWindow_MatchInfo_MH": "Хост Матча",
     "IngameWindow_MatchInfo_MMR": "Рейтинг матча",
+    "IngameWindow_MatchInfo_Character": "Character",
     "IngameWindow_MatchInfo_PLButton": "Просмотр игроков",
     "IngameWindow_NormalInfo_BP": "Очки крови",
     "IngameWindow_NormalInfo_AUR": "Золотые клетки",
