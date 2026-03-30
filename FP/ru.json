@@ -102,6 +102,7 @@
     "Settings_Manual_Time": "Ручной тайм-аут",
     "Settings_Header_SSL": "SSL-обход",
     "Settings_SSL": "Включить SSL-обход для Steam",
+    "Settings_SSL_Load": "Load SSL Bypass",
     "Settings_Header_Diagnoser": "Диагностика",
     "Settings_Diagnoser": "Открыть Диагностику",
     "Settings_Header_Pak": "Pak ",

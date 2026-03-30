@@ -102,6 +102,7 @@
     "Settings_Manual_Time": "Manual Timeout",
     "Settings_Header_SSL": "SSL",
     "Settings_SSL": "Enable SSL for Steam",
+    "Settings_SSL_Load": "Load SSL Bypass",
     "Settings_Header_Diagnoser": "Diagnoser",
     "Settings_Diagnoser": "Open Diagnoser",
     "Settings_Header_Pak": "Pak",
